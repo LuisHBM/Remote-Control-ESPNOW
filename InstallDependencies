@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Ubuntu version: 22.04 LTS
+# Python version: 3.9.17
+
+sudo apt update
+sudo apt install python3-pip
+pip3 install pynput
